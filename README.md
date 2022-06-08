@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-I am a data analyst with a background in secondary math education who used data to drive decision making. 
+I am interested in Data Analytics and problem solving, currently honing my skills in SQL, Tableau, and Python to explore and learn about Data Analytics.
+My background is in teaching secondary Geometry and AP Calculus, among other math courses.
+I am looking for a full-time in-person Junior Data Analytics position in the Clearwater/Tampa area of Florida. 
 
 ### Skills include:
   - Microsoft Office (Excel, PowerPoint, Word)
